@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./asset/matrix.svg'>
+  <img src='./matrix.svg'>
   <br>
 
   
