@@ -5,4 +5,4 @@
   
 A cool README about me.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DATASCIENTISTHENRY&layout=compact)
+<h1 align="center" > Hola, Somos @sdemicco, @margrubio @JimeFioni, @rodrihuarachi, gferreira1205 👋</h1> 
