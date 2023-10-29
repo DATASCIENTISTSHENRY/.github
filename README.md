@@ -23,5 +23,5 @@ A cool README about me.
 </div> </h1> 
 
 <p align = "center"> Inmersos en el mundo de los datos y la tecnología💻, creamos esta organización a los fines de lograr la correcta manipulación de los datos 📊 implementando herramientas como Jira Software, como parte de las metodologías Ágiles! 
-Se incluirá el repositorio de nuestro Proyecto Final para graduarnos como Data Science en el bootcamp de Henry ![image](./image.jpg)
+Se incluirá el repositorio de nuestro Proyecto Final para graduarnos como Data Science en el bootcamp de Henry ![image]()
  </p>
