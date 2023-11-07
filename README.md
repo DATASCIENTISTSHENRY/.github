@@ -3,7 +3,6 @@
   <br>
 
   
-A cool README about me.
 
 <h1 align="center" > Hola, Somos <a href="https://www.linkedin.com/in/silvina-de-micco/" style="color: #4682A9;">
     Silvina De Micco
